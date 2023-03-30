@@ -7,6 +7,7 @@
 #include <stdexcept>
 using namespace std;
 
+
 class Shop
 {
 	vector<Product*> product;
